@@ -1,7 +1,3 @@
-I have proofread your README.md. I corrected several typos (notably "refereed," "actualy," and missing tool names in commands), fixed broken grammar, and cleaned up the Markdown formatting to ensure the tables and code blocks render correctly.
-
------
-
 # Lecture Homework Week 04 - Thursday
 
 For this lecture homework, you will explore calling C subroutines from within Assembly Language code.
